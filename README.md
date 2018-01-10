@@ -1,1 +1,3 @@
 # submoduleA
+
+add AAAAA
